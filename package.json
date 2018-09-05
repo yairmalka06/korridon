@@ -1,0 +1,17 @@
+{
+  "name": "korridom",
+  "version": "1.0.0",
+  "description": "a discord bot for korridom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Byoe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "node-google-translate-skidz": "^1.1.2",
+    "weather-js": "^2.0.0"
+  }
+}

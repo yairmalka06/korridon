@@ -6,7 +6,6 @@ var weather = require('weather-js');
 
 var translate = require('node-google-translate-skidz');
 
-const token = "NDI0Mjc4NjE4MjQ4NzA4MTE2.DmtGvA.cALjQ1aXP4kkc-TbE4T-bZtoiNs";
 
 var bot = new Discord.Client();
 
